@@ -1,0 +1,722 @@
+[
+    {
+        "question": "Which of the following best defines the concept of diversification in finance?",
+        "options": [
+            "Investing in a single stock",
+            "Putting all money in a savings account",
+            "Spreading investments across different assets",
+            "Taking on high-risk investments"
+        ],
+        "answer": "Spreading investments across different assets"
+    },
+    {
+        "question": "What is the primary purpose of a stock index?",
+        "options": [
+            "To predict future stock prices",
+            "To measure the overall performance of a group of stocks",
+            "To determine dividend payouts",
+            "To regulate the stock market"
+        ],
+        "answer": "To measure the overall performance of a group of stocks"
+    },
+    {
+        "question": "What does ROI stand for in finance?",
+        "options": [
+            "Return of Investment",
+            "Rate of Inflation",
+            "Risk of Investment",
+            "Return on Investment"
+        ],
+        "answer": "Return on Investment"
+    },
+    {
+        "question": "Which financial instrument typically offers the highest potential return?",
+        "options": [
+            "Savings account",
+            "Corporate bonds",
+            "Government bonds",
+            "Stocks"
+        ],
+        "answer": "Stocks"
+    },
+    {
+        "question": "What is the purpose of a credit score?",
+        "options": [
+            "To determine a person's net worth",
+            "To assess a person's ability to manage debt",
+            "To predict stock market trends",
+            "To calculate tax liabilities"
+        ],
+        "answer": "To assess a person's ability to manage debt"
+    },
+    {
+        "question": "What term describes the increase in the general price level of goods and services over time?",
+        "options": [
+            "Deflation",
+            "Inflation",
+            "Stagnation",
+            "Recession"
+        ],
+        "answer": "Inflation"
+    },
+    {
+        "question": "Which financial statement provides a snapshot of a company's financial position at a specific point in time?",
+        "options": [
+            "Income statement",
+            "Cash flow statement",
+            "Balance sheet",
+            "Statement of retained earnings"
+        ],
+        "answer": "Balance sheet"
+    },
+    {
+        "question": "What is the role of the Federal Reserve (the Fed) in the United States?",
+        "options": [
+            "Regulate stock markets",
+            "Set fiscal policy",
+            "Manage the money supply and interest rates",
+            "Approve government budgets"
+        ],
+        "answer": "Manage the money supply and interest rates"
+    },
+    {
+        "question": "What is a bear market?",
+        "options": [
+            "A market characterized by rising stock prices",
+            "A market characterized by falling stock prices",
+            "A market with stable stock prices",
+            "A market with no trading activity"
+        ],
+        "answer": "A market characterized by falling stock prices"
+    },
+    {
+        "question": "Which investment strategy aims to buy and hold investments for the long term without actively trading?",
+        "options": [
+            "Day trading",
+            "Swing trading",
+            "Value investing",
+            "Momentum investing"
+        ],
+        "answer": "Value investing"
+    },
+    {
+        "question": "Which of the following is considered a safe-haven asset during times of economic uncertainty?",
+        "options": [
+            "Stocks",
+            "Real estate",
+            "Gold",
+            "High-yield bonds"
+        ],
+        "answer": "Gold"
+    },
+    {
+        "question": "What is the purpose of a 401(k) retirement account?",
+        "options": [
+            "To save for short-term expenses",
+            "To invest in individual stocks",
+            "To provide life insurance coverage",
+            "To save for retirement with tax advantages"
+        ],
+        "answer": "To save for retirement with tax advantages"
+    },
+    {
+        "question": "What does the term \"liquidity\" refer to in finance?",
+        "options": [
+            "The ease of converting an asset into cash without significant loss of value",
+            "The potential for high returns on an investment",
+            "The total value of a company's assets",
+            "The risk associated with an investment"
+        ],
+        "answer": "The ease of converting an asset into cash without significant loss of value"
+    },
+    {
+        "question": "What is the main purpose of issuing dividends to shareholders?",
+        "options": [
+            "To increase the company's debt",
+            "To provide a return on investment to shareholders",
+            "To attract new investors to the company",
+            "To lower the company's tax liability"
+        ],
+        "answer": "To provide a return on investment to shareholders"
+    },
+    {
+        "question": "Which type of investment involves pooling funds from multiple investors to invest in a diversified portfolio managed by professionals?",
+        "options": [
+            "Hedge funds",
+            "Mutual funds",
+            "Penny stocks",
+            "Options"
+        ],
+        "answer": "Mutual funds"
+    },
+    {
+        "question": "What is the formula to calculate compound interest?",
+        "options": [
+            "P = R + T",
+            "A = P + R",
+            "A = P(1 + r/n)^(nt)",
+            "P = A / (1 + r)"
+        ],
+        "answer": "A = P(1 + r/n)^(nt)"
+    },
+    {
+        "question": "Which financial statement provides a summary of a company's revenues and expenses during a specific period?",
+        "options": [
+            "Balance sheet",
+            "Cash flow statement",
+            "Income statement",
+            "Statement of retained earnings"
+        ],
+        "answer": "Income statement"
+    },
+    {
+        "question": "What is the role of a financial advisor?",
+        "options": [
+            "To provide tax preparation services",
+            "To manage a company's inventory",
+            "To offer investment advice and financial planning",
+            "To oversee human resources in a company"
+        ],
+        "answer": "To offer investment advice and financial planning"
+    },
+    {
+        "question": "Which of the following investments is generally considered to have the lowest level of risk?",
+        "options": [
+            "Stocks",
+            "Corporate bonds",
+            "Real estate",
+            "Cryptocurrencies"
+        ],
+        "answer": "Corporate bonds"
+    },
+    {
+        "question": "What is the purpose of a limit order in trading?",
+        "options": [
+            "To buy or sell at the current market price",
+            "To buy or sell when a specific price is reached",
+            "To buy or sell only on specific days of the week",
+            "To automatically close a trade after a set period of time"
+        ],
+        "answer": "To buy or sell when a specific price is reached"
+    },
+    {
+        "question": "What is the difference between a traditional IRA and a Roth IRA?",
+        "options": [
+            "Traditional IRA contributions are tax-deductible, while Roth IRA contributions are not.",
+            "Roth IRA contributions are tax-deductible, while traditional IRA contributions are not.",
+            "Both traditional and Roth IRA contributions are tax-deductible.",
+            "Contributions to both traditional and Roth IRAs are not tax-deductible."
+        ],
+        "answer": "Traditional IRA contributions are tax-deductible, while Roth IRA contributions are not."
+    },
+    {
+        "question": "Which economic indicator measures the total value of all goods and services produced within a country's borders in a specific time period?",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Gross Domestic Product (GDP)",
+            "Producer Price Index (PPI)",
+            "Retail Sales"
+        ],
+        "answer": "Gross Domestic Product (GDP)"
+    },
+    {
+        "question": "What is the purpose of a profit margin in financial analysis?",
+        "options": [
+            "To calculate the total revenue of a company",
+            "To measure the efficiency of a company's operations",
+            "To determine the company's total expenses",
+            "To evaluate the company's stock price"
+        ],
+        "answer": "To measure the efficiency of a company's operations"
+    },
+    {
+        "question": "What does the term \"short selling\" mean in finance?",
+        "options": [
+            "Selling an asset at a higher price than its purchase price",
+            "Selling an asset and immediately buying it back at a lower price",
+            "Selling an asset without the intention of buying it back",
+            "Selling an asset to a buyer with a short time horizon"
+        ],
+        "answer": "Selling an asset and immediately buying it back at a lower price"
+    },
+    {
+        "question": "Which financial metric typically indicates a company's ability to pay its short-term obligations using its most liquid assets?",
+        "options": [
+            "Current ratio",
+            "Debt-to-Equity ratio",
+            "Return on Assets (ROA)",
+            "Price-to-Earnings (P/E) ratio"
+        ],
+        "answer": "Current ratio"
+    },
+    {
+        "question": "What is the role of the Securities and Exchange Commission (SEC) in the United States?",
+        "options": [
+            "To regulate international trade",
+            "To oversee the telecommunications industry",
+            "To enforce copyright laws",
+            "To regulate and oversee the securities industry"
+        ],
+        "answer": "To regulate and oversee the securities industry"
+    },
+    {
+        "question": "What is a mutual fund's expense ratio?",
+        "options": [
+            "The ratio of stocks to bonds in the fund's portfolio",
+            "The ratio of the fund's returns to its initial investment",
+            "The ratio of the fund's assets to its liabilities",
+            "The ratio of operating expenses to the fund's average assets"
+        ],
+        "answer": "The ratio of operating expenses to the fund's average assets"
+    },
+    {
+        "question": "What does the term \"asset allocation\" refer to in investing?",
+        "options": [
+            "The process of buying and selling assets frequently",
+            "The process of allocating assets to different investment categories",
+            "The process of avoiding all risky investments",
+            "The process of investing in a single asset class"
+        ],
+        "answer": "The process of allocating assets to different investment categories"
+    },
+    {
+        "question": "What is the main risk associated with investing in bonds?",
+        "options": [
+            "Currency risk",
+            "Interest rate risk",
+            "Market risk",
+            "Business risk"
+        ],
+        "answer": "Interest rate risk"
+    },
+    {
+        "question": "Which financial statement provides information about a company's revenues, expenses, and net income over a specific period?",
+        "options": [
+            "Balance sheet",
+            "Cash flow statement",
+            "Income statement",
+            "Statement of retained earnings"
+        ],
+        "answer": "Income statement"
+    },
+    {
+        "question": "What is the concept of \"buy and hold\" investing?",
+        "options": [
+            "Buying and selling assets frequently to capitalize on short-term price movements",
+            "Holding onto investments for the long term without making frequent trades",
+            "Buying and selling options contracts to generate quick profits",
+            "Investing exclusively in high-risk assets"
+        ],
+        "answer": "Holding onto investments for the long term without making frequent trades"
+    },
+    {
+        "question": "What does the term \"liquidity risk\" refer to?",
+        "options": [
+            "The risk of losing money due to market fluctuations",
+            "The risk of not being able to quickly convert an asset into cash without significant loss of value",
+            "The risk of investing in high-risk, high-return assets",
+            "The risk of bankruptcy for a company"
+        ],
+        "answer": "The risk of not being able to quickly convert an asset into cash without significant loss of value"
+    },
+    {
+        "question": "What is the primary purpose of a budget in personal finance?",
+        "options": [
+            "To track spending and manage expenses",
+            "To maximize credit card rewards",
+            "To invest in high-risk assets",
+            "To generate income through dividend stocks"
+        ],
+        "answer": "To track spending and manage expenses"
+    },
+    {
+        "question": "Which financial metric typically indicates a company's ability to cover its interest payments with its operating income?",
+        "options": [
+            "Debt-to-Equity ratio",
+            "Earnings Before Interest and Taxes (EBIT)",
+            "Return on Equity (ROE)",
+            "Return on Assets (ROA)"
+        ],
+        "answer": "Interest rate risk"
+    },
+    {
+        "question": "What is the primary function of a central bank?",
+        "options": [
+            "To provide loans to individuals and businesses",
+            "To regulate the stock market",
+            "To issue currency and control the money supply",
+            "To manage and regulate international trade"
+        ],
+        "answer": "To issue currency and control the money supply"
+    },
+    {
+        "question": "What is the difference between a fixed-rate mortgage and an adjustable-rate mortgage (ARM)?",
+        "options": [
+            "Fixed-rate mortgages have changing interest rates, while ARMs have a constant rate.",
+            "Fixed-rate mortgages have higher interest rates than ARMs.",
+            "Fixed-rate mortgages have lower monthly payments than ARMs.",
+            "Fixed-rate mortgages have a consistent interest rate over the loan term, while ARMs have variable rates that can change periodically."
+        ],
+        "answer": "Fixed-rate mortgages have a consistent interest rate over the loan term, while ARMs have variable rates that can change periodically."
+    },
+    {
+        "question": "What is the primary difference between a traditional defined benefit pension plan and a defined contribution retirement plan, like a 401(k)?",
+        "options": [
+            "Defined benefit plans offer higher contribution limits.",
+            "Defined contribution plans offer guaranteed income in retirement.",
+            "Defined benefit plans are funded by the employee, while defined contribution plans are funded by the employer.",
+            "Defined benefit plans promise a specific retirement benefit based on a formula, while defined contribution plans depend on contributions and investment returns."
+        ],
+        "answer": "Defined benefit plans promise a specific retirement benefit based on a formula, while defined contribution plans depend on contributions and investment returns."
+    },
+    {
+        "question": "What is the concept of \"opportunity cost\" in economics?",
+        "options": [
+            "The cost of production for a company",
+            "The cost of investing in high-risk assets",
+            "The cost of an alternative foregone when a decision is made",
+            "The cost of borrowing money from a bank"
+        ],
+        "answer": "The cost of an alternative foregone when a decision is made"
+    },
+    {
+        "question": "What is the primary purpose of a credit union?",
+        "options": [
+            "To provide retirement accounts",
+            "To offer investment advice",
+            "To facilitate international trade",
+            "To serve as a financial cooperative for members"
+        ],
+        "answer": "To serve as a financial cooperative for members"
+    },
+    {
+        "question": "Which financial statement provides an overview of a company's financial performance by showing revenues, expenses, and profits?",
+        "options": [
+            "Income statement",
+            "Balance sheet",
+            "Cash flow statement",
+            "Statement of retained earnings"
+        ],
+        "answer": "Income statement"
+    },
+    {
+        "question": "What is the primary goal of a company when it repurchases its own stock through a buyback program?",
+        "options": [
+            "To raise capital for expansion",
+            "To reduce the company's outstanding shares",
+            "To increase shareholder dividends",
+            "To attract new investors"
+        ],
+        "answer": "To reduce the company's outstanding shares"
+    },
+    {
+        "question": "What is the difference between a secured and an unsecured loan?",
+        "options": [
+            "Secured loans require collateral, while unsecured loans do not.",
+            "Unsecured loans require collateral, while secured loans do not.",
+            "Both secured and unsecured loans require collateral.",
+            "Neither secured nor unsecured loans require collateral."
+        ],
+        "answer": "Secured loans require collateral, while unsecured loans do not."
+    },
+    {
+        "question": "What is the time value of money in finance?",
+        "options": [
+            "The concept that money becomes less valuable over time",
+            "The concept that money can be invested to earn interest over time",
+            "The concept that money has the same value regardless of time",
+            "The concept that money should only be spent immediately"
+        ],
+        "answer": "The concept that money can be invested to earn interest over time"
+    },
+    {
+        "question": "What does the term \"blue chip stocks\" refer to in investing?",
+        "options": [
+            "Stocks with a low market capitalization",
+            "Stocks of small, start-up companies",
+            "Stocks of well-established, financially stable companies",
+            "Stocks with high volatility and risk"
+        ],
+        "answer": "Stocks of well-established, financially stable companies"
+    },
+    {
+        "question": "What is the primary purpose of an emergency fund?",
+        "options": [
+            "To invest in high-risk assets for potential high returns",
+            "To cover regular monthly expenses",
+            "To have funds available for unexpected expenses or emergencies",
+            "To pay off existing debts"
+        ],
+        "answer": "To have funds available for unexpected expenses or emergencies"
+    },
+    {
+        "question": "What is the difference between a traditional savings account and a money market account?",
+        "options": [
+            "Money market accounts offer higher interest rates.",
+            "Traditional savings accounts offer check-writing capabilities.",
+            "Money market accounts are insured by the FDIC.",
+            "Traditional savings accounts have higher minimum balance requirements."
+        ],
+        "answer": "Money market accounts offer higher interest rates."
+    },
+    {
+        "question": "What is the main purpose of a will in estate planning?",
+        "options": [
+            "To distribute a person's assets after their death",
+            "To assign power of attorney to a financial advisor",
+            "To establish a trust fund for charitable donations",
+            "To transfer ownership of property to a living beneficiary"
+        ],
+        "answer": "To distribute a person's assets after their death"
+    },
+    {
+        "question": "What is the primary purpose of a 529 plan?",
+        "options": [
+            "To provide retirement income",
+            "To fund medical expenses",
+            "To save for higher education expenses",
+            "To invest in real estate properties"
+        ],
+        "answer": "To save for higher education expenses"
+    },
+    {
+        "question": "What is the purpose of a Certificate of Deposit (CD)?",
+        "options": [
+            "To provide insurance coverage for a car",
+            "To invest in stocks",
+            "To provide a fixed interest rate for a specific period",
+            "To transfer ownership of a property"
+        ],
+        "answer": "To provide a fixed interest rate for a specific period"
+    },
+    {
+        "question": "What is the primary role of the Federal Reserve (the Fed) in the United States?",
+        "options": [
+            "To regulate the stock market",
+            "To manage foreign exchange rates",
+            "To oversee government budgets",
+            "To control monetary policy and the money supply"
+        ],
+        "answer": "To control monetary policy and the money supply"
+    },
+    {
+        "question": "What is the difference between a traditional IRA and a Roth IRA?",
+        "options": [
+            "Contributions to traditional IRAs are tax-deductible, while Roth IRA contributions are not.",
+            "Roth IRA contributions are tax-deductible, while traditional IRA contributions are not.",
+            "Both traditional and Roth IRA contributions are tax-deductible.",
+            "Contributions to both traditional and Roth IRAs are not tax-deductible."
+        ],
+        "answer": "Contributions to traditional IRAs are tax-deductible, while Roth IRA contributions are not."
+    },
+    {
+        "question": "Which economic indicator measures the total value of all goods and services produced within a country's borders in a specific time period?",
+        "options": [
+            "Consumer Price Index (CPI)",
+            "Gross Domestic Product (GDP)",
+            "Producer Price Index (PPI)",
+            "Retail Sales"
+        ],
+        "answer": "Gross Domestic Product (GDP)"
+    },
+    {
+        "question": "What is the purpose of a profit margin in financial analysis?",
+        "options": [
+            "To calculate the total revenue of a company",
+            "To measure the efficiency of a company's operations",
+            "To determine the company's total expenses",
+            "To evaluate the company's stock price"
+        ],
+        "answer": "To measure the efficiency of a company's operations"
+    },
+    {
+        "question": "What does the term \"short selling\" mean in finance?",
+        "options": [
+            "Selling an asset at a higher price than its purchase price",
+            "Selling an asset and immediately buying it back at a lower price",
+            "Selling an asset without the intention of buying it back",
+            "Selling an asset to a buyer with a short time horizon"
+        ],
+        "answer": "Selling an asset and immediately buying it back at a lower price"
+    },
+    {
+        "question": "Which financial metric typically indicates a company's ability to pay its short-term obligations using its most liquid assets?",
+        "options": [
+            "Current ratio",
+            "Debt-to-Equity ratio",
+            "Return on Assets (ROA)",
+            "Price-to-Earnings (P/E) ratio"
+        ],
+        "answer": "Current ratio"
+    },
+    {
+        "question": "What is the role of the Securities and Exchange Commission (SEC) in the United States?",
+        "options": [
+            "To regulate international trade",
+            "To oversee the telecommunications industry",
+            "To enforce copyright laws",
+            "To regulate and oversee the securities industry"
+        ],
+        "answer": "To regulate and oversee the securities industry"
+    },
+    {
+        "question": "What is a mutual fund's expense ratio?",
+        "options": [
+            "The ratio of stocks to bonds in the fund's portfolio",
+            "The ratio of the fund's returns to its initial investment",
+            "The ratio of the fund's assets to its liabilities",
+            "The ratio of operating expenses to the fund's average assets"
+        ],
+        "answer": "The ratio of operating expenses to the fund's average assets"
+    },
+    {
+        "question": "What does the term \"asset allocation\" refer to in investing?",
+        "options": [
+            "The process of buying and selling assets frequently",
+            "The process of allocating assets to different investment categories",
+            "The process of avoiding all risky investments",
+            "The process of investing in a single asset class"
+        ],
+        "answer": "The process of allocating assets to different investment categories"
+    },
+    {
+        "question": "What is the main risk associated with investing in bonds?",
+        "options": [
+            "Currency risk",
+            "Interest rate risk",
+            "Market risk",
+            "Business risk"
+        ],
+        "answer": "Interest rate risk"
+    },
+    {
+        "question": "Which financial statement provides information about a company's revenues, expenses, and net income over a specific period?",
+        "options": [
+            "Balance sheet",
+            "Cash flow statement",
+            "Income statement",
+            "Statement of retained earnings"
+        ],
+        "answer": "Income statement"
+    },
+    {
+        "question": "What is the concept of \"buy and hold\" investing?",
+        "options": [
+            "Buying and selling assets frequently to capitalize on short-term price movements",
+            "Holding onto investments for the long term without making frequent trades",
+            "Buying and selling options contracts to generate quick profits",
+            "Investing exclusively in high-risk assets"
+        ],
+        "answer": "Holding onto investments for the long term without making frequent trades"
+    },
+    {
+        "question": "What does the term \"liquidity risk\" refer to?",
+        "options": [
+            "The risk of losing money due to market fluctuations",
+            "The risk of not being able to quickly convert an asset into cash without significant loss of value",
+            "The risk of investing in high-risk, high-return assets",
+            "The risk of bankruptcy for a company"
+        ],
+        "answer": "The risk of not being able to quickly convert an asset into cash without significant loss of value"
+    },
+    {
+        "question": "What is the primary purpose of a budget in personal finance?",
+        "options": [
+            "To track spending and manage expenses",
+            "To maximize credit card rewards",
+            "To invest in high-risk assets",
+            "To generate income through dividend stocks"
+        ],
+        "answer": "To track spending and manage expenses"
+    },
+    {
+        "question": "Which financial metric typically indicates a company's ability to cover its interest payments with its operating income?",
+        "options": [
+            "Debt-to-Equity ratio",
+            "Earnings Before Interest and Taxes (EBIT)",
+            "Return on Equity (ROE)",
+            "Return on Assets (ROA)"
+        ],
+        "answer": "Interest rate risk"
+    },
+    {
+        "question": "What is the primary function of a central bank?",
+        "options": [
+            "To provide loans to individuals and businesses",
+            "To regulate the stock market",
+            "To issue currency and control the money supply",
+            "To manage and regulate international trade"
+        ],
+        "answer": "To issue currency and control the money supply"
+    },
+    {
+        "question": "What is the difference between a fixed-rate mortgage and an adjustable-rate mortgage (ARM)?",
+        "options": [
+            "Fixed-rate mortgages have changing interest rates, while ARMs have a constant rate.",
+            "Fixed-rate mortgages have higher interest rates than ARMs.",
+            "Fixed-rate mortgages have lower monthly payments than ARMs.",
+            "Fixed-rate mortgages have a consistent interest rate over the loan term, while ARMs have variable rates that can change periodically."
+        ],
+        "answer": "Fixed-rate mortgages have a consistent interest rate over the loan term, while ARMs have variable rates that can change periodically."
+    },
+    {
+        "question": "What is the primary difference between a traditional defined benefit pension plan and a defined contribution retirement plan, like a 401(k)?",
+        "options": [
+            "Defined benefit plans offer higher contribution limits.",
+            "Defined contribution plans offer guaranteed income in retirement.",
+            "Defined benefit plans are funded by the employee, while defined contribution plans are funded by the employer.",
+            "Defined benefit plans promise a specific retirement benefit based on a formula, while defined contribution plans depend on contributions and investment returns."
+        ],
+        "answer": "Defined benefit plans promise a specific retirement benefit based on a formula, while defined contribution plans depend on contributions and investment returns."
+    },
+    {
+        "question": "What is the concept of \"opportunity cost\" in economics?",
+        "options": [
+            "The cost of production for a company",
+            "The cost of investing in high-risk assets",
+            "The cost of an alternative foregone when a decision is made",
+            "The cost of borrowing money from a bank"
+        ],
+        "answer": "The cost of an alternative foregone when a decision is made"
+    },
+    {
+        "question": "What is the primary purpose of a credit union?",
+        "options": [
+            "To provide retirement accounts",
+            "To offer investment advice",
+            "To facilitate international trade",
+            "To serve as a financial cooperative for members"
+        ],
+        "answer": "To serve as a financial cooperative for members"
+    },
+    {
+        "question": "Which financial statement provides an overview of a company's financial performance by showing revenues, expenses, and profits?",
+        "options": [
+            "Income statement",
+            "Balance sheet",
+            "Cash flow statement",
+            "Statement of retained earnings"
+        ],
+        "answer": "Income statement"
+    },
+    {
+        "question": "What is the primary goal of a company when it repurchases its own stock through a buyback program?",
+        "options": [
+            "To raise capital for expansion",
+            "To reduce the company's outstanding shares",
+            "To increase shareholder dividends",
+            "To attract new investors"
+        ],
+        "answer": "To reduce the company's outstanding shares"
+    },
+    {
+        "question": "What is the difference between a secured and an unsecured loan?",
+        "options": [
+            "Secured loans require collateral, while unsecured loans do not.",
+            "Unsecured loans require collateral, while secured loans do not.",
+            "Both secured and unsecured loans require collateral.",
+            "Neither secured nor unsecured loans require collateral."
+        ],
+        "answer": "Secured"
+    }
+]

@@ -1,0 +1,2 @@
+recreatoin,drinks,12/7/2023,500.0,1
+health,medicine,1/1/1,1000.0,2
